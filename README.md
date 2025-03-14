@@ -1,5 +1,13 @@
-# 💫 About Me:
-<br>Hi there 👋<br><br>I’m Sheela Akshar Sakhi, a passionate AI & ML Developer, Web Designer, and Cybersecurity Enthusiast 🚀<br><br>🔭 I’m currently working on:<br>	•	AI-Driven Customer Segmentation & Marketing – Analyzing customer behavior for personalized marketing strategies<br>	•	3D-Enabled E-Commerce Website – Interactive product testing and personalized recommendations<br>	•	AI for Ice Cream Shops – Predicting customer preferences for targeted product suggestions<br>	•	ArogyaDeskAI – Symptom-based disease prediction chatbot using ML algorithms like Decision Trees and SVC<br><br>🌱 I’m currently learning:<br>	•	Advanced Machine Learning Algorithms<br>	•	Business Analytics & Data-Driven Decision Making<br>	•	Cloud Computing & Cybersecurity<br><br>👯 I’m looking to collaborate on:<br>	•	AI & ML projects<br>	•	Open-source contributions<br>	•	Hackathons & research projects<br><br>🤔 I’m looking for help with:<br>	•	Improving AI model accuracy<br>	•	Implementing large-scale AI systems efficiently<br><br>💬 Ask me about:<br>	•	AI, ML, Web Development, UI/UX<br>	•	Cybersecurity & Ethical Hacking<br>	•	Business Analytics & Data Science<br><br>
+## Hi, I'm Sheela Akshar Sakhi ✨  
+
+🎓 **Computer Science student at Amrita Vishwa Vidyapeetham**  
+💡 Passionate about **AI & ML, Web Development, Cybersecurity, and Business Analytics**  
+🚀 Love working on innovative AI-driven solutions and participating in hackathons  
+
+📌 **Current Projects:**  
+🔹 AI-driven Customer Segmentation & Marketing  
+🔹 3D-Enabled E-Commerce Website  
+🔹 ArogyaDeskAI – Symptom-based disease prediction chatbot  
 
 
 ## 🌐 Socials:
