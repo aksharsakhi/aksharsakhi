@@ -1,4 +1,4 @@
-## Hi, I'm Akshar Sakhi ✨  
+## Hi, I'm Akshar Sakhi 
 
 🎓 **Computer Science student at Amrita Vishwa Vidyapeetham**  
 💡 Passionate about **AI & ML, Web Development, Cybersecurity, and Business Analytics**  
