@@ -174,20 +174,6 @@
 
 ---
 
-# 📌 Goals for 2026
-
-✅ Contribute to Open Source
-
-✅ Publish Research Paper
-
-✅ Build Production AI Projects
-
-✅ Learn Kubernetes
-
-✅ Crack Top Software Internship
-
----
-
 # 📫 Let's Connect
 
 <p align="center">
