@@ -1,112 +1,120 @@
+<div align="center">
+
+<img src="YOUR_BANNER_IMAGE_URL" width="100%" />
+
 # Hi 👋 I'm Akshar Sakhi
 
-<img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Engineer;Full+Stack+Developer;Cybersecurity+Enthusiast;Business+Analytics+Learner;Open+Source+Contributor" />
 
-🎓 B.Tech Computer Science @ Amrita Vishwa Vidyapeetham
+### 🎓 B.Tech Computer Science @ Amrita Vishwa Vidyapeetham
 
-💻 AI • Machine Learning • Full Stack Development
+<img src="https://komarev.com/ghpvc/?username=aksharsakhi&label=Profile+Views&color=0e75b6&style=flat" />
 
-📊 Business Analytics Enthusiast
-
-🔐 Cybersecurity Learner
-
-🚀 Passionate about solving real-world problems using AI
+</div>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-- 🎓 Computer Science Student
-- 💼 Former Tata Motors Intern
-- 🤖 Building AI-powered Healthcare Solutions
-- 📈 Interested in Machine Learning & Data Analytics
-- 🌱 Currently learning Federated Learning & LLMs
-- 🏆 Hackathon Participant
-- 📫 Reach me: **aksharsakhi@gmail.com**
+<img align="right" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+
+🎓 Computer Science Student
+
+💼 Former Tata Motors Intern
+
+🤖 AI & Machine Learning
+
+🌐 Full Stack Development
+
+📊 Business Analytics
+
+🔐 Cybersecurity
+
+📚 Research in Federated Learning
+
+🏆 Hackathon Enthusiast
+
+🌱 Currently Learning
+
+- LLMs
+- Federated Learning
+- Generative AI
+- MLOps
+
+📫 Reach me:
+
+**aksharsakhi@gmail.com**
+
+<br clear="right"/>
 
 ---
 
-## 🛠 Tech Stack
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/akshar-sakhi-1b059a262">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://instagram.com/aksharsakhi">
+<img src="https://skillicons.dev/icons?i=instagram"/>
+</a>
+
+<a href="mailto:aksharsakhi@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+</p>
+
+---
+
+# 💻 Tech Stack
+
+<div align="center">
 
 ### Languages
 
-Python • Java • C • C++ • JavaScript
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js"/>
 
-### AI/ML
+### AI / ML
 
-TensorFlow
-
-PyTorch
-
-Scikit-Learn
-
-Pandas
-
-NumPy
-
-OpenCV
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv"/>
 
 ### Web
 
-HTML
+<img src="https://skillicons.dev/icons?i=html,css,flask,firebase"/>
 
-CSS
+### Database
 
-Flask
-
-Firebase
-
-MongoDB
-
-MySQL
+<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
 
 ### Tools
 
-Git
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,raspberrypi"/>
 
-GitHub
-
-VS Code
-
-Figma
-
-Canva
-
-Google Cloud
-
-Raspberry Pi
-
-ESP32
+</div>
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 🏥 ArogyaDesk AI
-
-AI-powered healthcare assistant for rural India.
-
-### 📊 Federated Learning
-
-Privacy-preserving healthcare prediction system using LSTM & FedAvg.
-
-### 🛒 3D E-Commerce Website
-
-Interactive shopping platform with immersive product visualization.
-
-### 🤖 Customer Segmentation
-
-Machine learning pipeline for personalized marketing.
+| Project | Description |
+|---------|-------------|
+| 🏥 **ArogyaDesk AI** | AI healthcare assistant for rural India |
+| 📊 **Federated Learning** | Privacy-preserving healthcare prediction |
+| 🛒 **3D E-Commerce** | Interactive shopping platform |
+| 🤖 **Customer Segmentation** | AI-powered marketing analytics |
 
 ---
 
-## 🏆 Achievements
+# 🏆 Achievements
 
 🏅 Tata Motors Internship
 
-🏅 AI & ML Projects
-
 🏅 Multiple Hackathons
+
+🏅 AI & ML Projects
 
 🏅 Cybersecurity Diploma
 
@@ -114,38 +122,96 @@ Machine learning pipeline for personalized marketing.
 
 ---
 
-## 🌐 Connect With Me
+# 📈 GitHub Statistics
 
-[LinkedIn](YOUR_LINK)
+<div align="center">
 
-[Instagram](YOUR_LINK)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=aksharsakhi&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-Email: aksharsakhi@gmail.com
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aksharsakhi&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=aksharsakhi&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
-## 📈 GitHub Stats
+# 📊 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aksharsakhi&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏅 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=aksharsakhi&theme=tokyonight&no-frame=true&margin-w=15&row=1"/>
+
+</div>
+
+---
+
+# 📚 Currently Learning
+
+🐍 Advanced Python
+
+🤖 Large Language Models
+
+☁️ Google Cloud
+
+⚡ MLOps
+
+📊 Data Engineering
+
+---
+
+# 📌 Goals for 2026
+
+✅ Contribute to Open Source
+
+✅ Publish Research Paper
+
+✅ Build Production AI Projects
+
+✅ Learn Kubernetes
+
+✅ Crack Top Software Internship
+
+---
+
+# 📫 Let's Connect
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=aksharsakhi&show_icons=true&theme=tokyonight&rank_icon=github"/>
+<a href="mailto:aksharsakhi@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aksharsakhi&layout=compact&theme=tokyonight"/>
+<a href="https://linkedin.com/in/akshar-sakhi-1b059a262">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=aksharsakhi&theme=tokyonight"/>
+<a href="https://instagram.com/aksharsakhi">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
 
 </p>
 
 ---
 
-## 🐍 Contribution Graph
+<div align="center">
 
-![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg)
+### ⭐ Thanks for visiting my profile ⭐
 
----
+*"Code. Learn. Build. Repeat."*
 
-⭐ Thanks for visiting my profile!
+</div>
